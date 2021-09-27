@@ -1,4 +1,4 @@
-# Example-of-Passing-variables-by-Data-address-reference
+# 3-Examples-of-Passing-arguments-to-Functions
 Example of Passing variables by Data, address and reference
 
 
